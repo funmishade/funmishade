@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Funmi Adewale
+# 👋 Hi, I'm Deborah Michael
 
 🚀 **DevOps Engineer | AWS | Kubernetes | Terraform | Docker | CI/CD Pipelines | Jenkins | ArgoCD | Prometheus & Grafana | DevSecOps**
 
@@ -29,8 +29,8 @@ Currently, I’m building hands-on projects that combine **AWS, Docker, Kubernet
 ---
 
 ### 📫 Let's Connect
-💼 [LinkedIn](https://www.linkedin.com/in/funmi-adewale)  
-✉️ **funmi.adewale08@gmail.com**
+💼 [LinkedIn](www.linkedin.com/in/deborahmichaelcloud)  
+✉️ **2244deborah@gmail.com**
 
 ---
 
