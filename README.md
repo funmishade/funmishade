@@ -29,7 +29,7 @@ Currently, I’m building hands-on projects that combine **AWS, Docker, Kubernet
 ---
 
 ### 📫 Let's Connect
-💼 [LinkedIn](www.linkedin.com/in/deborahmichaelcloud)  
+💼 [LinkedIn](https://www.linkedin.com/in/deborahmichaelcloud/)
 ✉️ **2244deborah@gmail.com**
 
 ---
